@@ -21,5 +21,5 @@ AI Travel Planner using **FastAPI + Streamlit + Ollama**
  ( Mặc định chương trình dùng model llama3.2:3b vì nhẹ)
 - Nếu người dùng dùng model khác (ví dụ llama3) thì trước khi chạy backend cần chạy: set OLLAMA_MODEL=llama3
 - Trên Anaconda Prompt (hoặc terminal) chạy: python backend/fastapi_server.py
-Mở Anaconda Prompt (hoặc terminal) mới, không đóng cái cũ ở trên 
+- Mở Anaconda Prompt (hoặc terminal) mới, không đóng cái cũ ở trên 
 - Trên Anaconda Prompt (hoặc terminal) mới, chạy: streamlit run frontend/app.py
